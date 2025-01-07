@@ -36,7 +36,7 @@ const Teams = () => {
 						<div className="rounded-full border-ternary mx-auto w-48 h-48 lg:w-44 lg:h-44 bg-cover bg-center bg-[url('/teachers/dr-shalini-r-sinha.jpg')]" />
 						<div className="flex flex-col gap-2 mt-6 w-52">
 							<div className="text-base font-semibold line-clamp-2 capitalize">
-								Dr. Shalini R. Sinha
+								Prof. Shalini.R.Sinha
 							</div>
 							<div className="w-24 h-0.5 bg-secondary" />
 							<div className="mb-2 text-sm font-normal line-clamp-2">
